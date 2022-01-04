@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-gotop_hover">
+      <rect width="50" height="50"/>
+    </clipPath>
+  </defs>
+  <g id="gotop_hover" clip-path="url(#clip-gotop_hover)">
+    <g id="Group_11" data-name="Group 11" transform="translate(69 4)">
+      <g id="go-top" transform="translate(-1434 -2591)">
+        <path id="Path_1" data-name="Path 1" d="M25,0A25,25,0,0,1,50,25c0,13.807-25,25-25,25S0,38.807,0,25A25,25,0,0,1,25,0Z" transform="translate(1415 2637) rotate(180)" fill="#ffdac2"/>
+        <g id="Group_34" data-name="Group 34" transform="translate(-0.5 -2.5)">
+          <line id="Line_8" data-name="Line 8" y2="24" transform="translate(1390.5 2602.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+          <line id="Line_9" data-name="Line 9" y1="3" x2="3" transform="translate(1387.5 2602.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+          <line id="Line_10" data-name="Line 10" x1="3" y1="3" transform="translate(1390.5 2602.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

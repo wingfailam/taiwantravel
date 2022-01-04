@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-arrowWithBorderLeft_default">
+      <rect width="50" height="50"/>
+    </clipPath>
+  </defs>
+  <g id="arrowWithBorderLeft_default" clip-path="url(#clip-arrowWithBorderLeft_default)">
+    <g id="Group_3" data-name="Group 3">
+      <g id="next_arrow_able" data-name="next arrow / able">
+        <g id="Rectangle_11" data-name="Rectangle 11" fill="none" stroke="#7baebe" stroke-width="1">
+          <rect width="50" height="50" rx="10" stroke="none"/>
+          <rect x="0.5" y="0.5" width="49" height="49" rx="9.5" fill="none"/>
+        </g>
+        <g id="arrow_L" data-name="arrow L" transform="translate(20.038 15.218)">
+          <line id="Line_1" data-name="Line 1" y1="13.635" transform="translate(0.282 9.641) rotate(-135)" fill="none" stroke="#7baebe" stroke-linecap="round" stroke-width="3"/>
+          <line id="Line_2" data-name="Line 2" y2="13.635" transform="translate(9.641 19.564) rotate(135)" fill="none" stroke="#7baebe" stroke-linecap="round" stroke-width="3"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

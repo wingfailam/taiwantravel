@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-site">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="site" clip-path="url(#clip-site)">
+    <path id="map-marker" d="M13.983,41.322a4.661,4.661,0,1,0-4.661,4.661A4.661,4.661,0,0,0,13.983,41.322Zm4.661,0a7.634,7.634,0,0,1-.6,3.259L11.416,58.674a2.324,2.324,0,0,1-2.094,1.293,2.277,2.277,0,0,1-2.076-1.293L.6,44.581A7.634,7.634,0,0,1,0,41.322a9.322,9.322,0,0,1,18.645,0Z" transform="translate(5.678 -30.983)" fill="#7baebe"/>
+  </g>
+</svg>

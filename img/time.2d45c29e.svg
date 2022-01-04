@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-time">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="time" clip-path="url(#clip-time)">
+    <path id="clock" d="M13.841,0A13.841,13.841,0,1,0,27.682,13.841,13.841,13.841,0,0,0,13.841,0Zm3.967,20.255-5.7-5.7V6.921h3.46v6.2l4.684,4.684L17.8,20.252Z" transform="translate(1.159 1.159)" fill="#7baebe"/>
+  </g>
+</svg>

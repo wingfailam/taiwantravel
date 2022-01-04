@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-information">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="information" clip-path="url(#clip-information)">
+    <g id="Group_13" data-name="Group 13" transform="translate(12 24)">
+      <path id="information-solid" d="M.647,21.856A15,15,0,1,1,21.855.64l0,0A15,15,0,1,1,.641,21.854l0,0Zm9.1-9.1v6h3v-9h-3Zm0-9v3h3v-3Z" transform="translate(-8.248 -20.249)" fill="#7baebe"/>
+    </g>
+  </g>
+</svg>

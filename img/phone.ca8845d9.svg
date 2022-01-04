@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-phone">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="phone" clip-path="url(#clip-phone)">
+    <g id="Group_17" data-name="Group 17" transform="translate(10 61)">
+      <path id="phone-2" data-name="phone" d="M20.846,49.056c-1.9,1.9-1.9,3.79-3.79,3.79s-3.79-1.9-5.685-3.79-3.79-3.79-3.79-5.685,1.9-1.9,3.79-3.79S7.58,32,5.685,32,0,37.685,0,37.685c0,3.79,3.894,11.474,7.58,15.161s11.371,7.58,15.161,7.58c0,0,5.685-3.79,5.685-5.685S22.741,47.161,20.846,49.056Z" transform="translate(-9.213 -92.213)" fill="#7baebe"/>
+    </g>
+  </g>
+</svg>
